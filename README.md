@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Muasya
-- 👀 I’m interested in Software development and i specilize in NodeJS and Angular.
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on projects dealing with advanced concepts of Artifical intelligence.
+- 👀 I’m interested in Software development and i specilize in NodeJS, Python, Rust and Angular.
 - 📫 How to reach me ...
 - Email : jacksonelemasterkey@gmail.com.
 
